@@ -1,0 +1,74 @@
+body {
+    background-color: #2a2e26;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffe8be;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.header {
+    display: flex;
+    gap: 300px; 
+    align-items: center;
+    justify-content: center;
+}
+
+.movies, .register {
+    text-decoration: none;
+    color: #ffe8be;
+}
+
+.title {
+    text-decoration: none;
+    color: #ffe8be;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+.movie-container {
+    display: flex;        
+    align-items: flex-start; 
+    gap: 30px;            
+    margin-top: 30px;
+}
+
+.movie-name {
+    font-size: 48px;
+    margin-top: 0;
+    color: #ffe8be;
+}
+
+.suitsstory {
+    font-size: 16px;
+    line-height: 1.6;
+    max-width: 500px;
+}
+
+.alist {
+    line-height: 1.2;
+}
+
+.suits-movie {
+    margin-left: 50px;
+}
+
+.button2 {
+    font-weight: bold;
+color:#393d34;
+font-size: 20px;
+outline: none;
+border-radius: 20px;
+border-style: hidden;
+background-color: #ffe8be;
+margin-left: 670px;
+margin-top: 10px;
+padding: 10px;
+
+
+
+
+}

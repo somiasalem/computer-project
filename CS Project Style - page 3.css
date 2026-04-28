@@ -1,0 +1,51 @@
+/* */
+body {
+background-color: #2a2e26;
+font-family: Arial, Helvetica, sans-serif;
+color: #ffe8be;
+margin: 20px;
+}
+
+h1{
+font-size: 40px;
+}
+
+.header {
+display: flex;
+gap: 300px;
+align-items: center;
+justify-content: center;
+}
+
+.movies {
+text-decoration: none;
+color: #ffe8be;
+}
+
+.title {
+text-decoration: none;
+color: #ffe8be;
+font-size: 40px;
+font-weight: bold;
+}
+
+.register {
+text-decoration: none;
+color: #ffe8be;
+}
+
+h1{
+display: flex;
+justify-content: center;
+}
+
+p{
+font-size: 60px;
+display: flex;
+justify-content: center;
+}
+
+.video {
+display: flex;
+justify-content: center;
+}
